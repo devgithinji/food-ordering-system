@@ -1,5 +1,5 @@
 # Domain Driven Design and Microservices Demo :computer:
-This is a Java Spring Boot demo project from [Ali Gelenler's Udemy course](https://www.udemy.com/course/microservices-clean-architecture-ddd-saga-outbox-kafka-kubernetes) showcasing basic and advanced architecture concepts such as:
+This is a Java Spring Boot demo project showcasing basic and advanced architecture concepts such as:
 - Clean &amp; Hexagonal Architecture
 - Domain Driven Design (DDD)
 - SAGA
