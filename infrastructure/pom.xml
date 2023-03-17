@@ -8,10 +8,13 @@
     </parent>
 
     <artifactId>infrastructure</artifactId>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <name>infrastructure</name>
     <url>http://maven.apache.org</url>
+    <modules>
+        <module>kafka</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
